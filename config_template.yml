@@ -1,0 +1,16 @@
+# Ruta del archivo JSON de las credenciales de la cuenta de servicio de Google Cloud.
+credentials_path: credencial.json
+
+# ID del proyecto en Google Cloud. Este valor identifica tu proyecto en Google Cloud.
+project_id: proyecto 
+
+# Nombre del bucket en Google Cloud Storage donde se subirá el archivo.
+bucket_name: nombre_del_bucket 
+
+# Nombre del tópico en Google Pub/Sub donde se publicará el mensaje.
+topic_name: nombre_del_topico 
+
+# Nombre del archivo CSV que se subirá a Google Cloud Storage.
+csv_filename: archivo.csv
+# Separador del archivo
+separador: ";"

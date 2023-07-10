@@ -1,0 +1,74 @@
+# Archivos de Python
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+*.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+*.pyc
+*.pyo
+*.pyd
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Archivos de Docker
+.DS_Store
+*.log
+*.sql
+*.sqlite
+
+# Carpetas de Docker
+__pycache__
+mypy_cache
+*.egg-info
+dist
+build
+.env
+.env.*
+
+# Archivos de Terraform
+.terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+*.tfstate.d
+
+# Archivos secretos o de cuentas de servicio
+deacero-dataops-corp-cytfr9-b58c6f59eb13.json
+terraform.yml
+config.yml
+
+# Archivos de MacOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Archivos de IDE
+.idea/
+*.iml
+*.iws
+*.suo
+*.user
+*.sln.docstates
+.vs/

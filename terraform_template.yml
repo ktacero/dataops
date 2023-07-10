@@ -1,0 +1,7 @@
+credentials_path: tu_cuenta_de_servicio.json
+project_id: tu_nombre_de_proyecto
+bucket_name: tu_nombre_de_bucket
+location: US
+region: us-central1
+topic_name: tu_nombre_de_topico
+subscription_name: tu_nombre_de_sub
